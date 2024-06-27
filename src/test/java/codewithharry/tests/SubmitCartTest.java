@@ -156,6 +156,8 @@ import codewithharry.pageObjects.ProductCatalogue;
 		
 	}
 
+// Tomorrow I will revise Frameworks from scratch .
+
 	
 	//For multiple parameter values HashMap is recommended .
 	
